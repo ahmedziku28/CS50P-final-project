@@ -228,8 +228,9 @@ def get_location(inp):
 
 
 # API key is hardcoded since I'm using my own API which takes about 1000 requests a month but the function can easily be editted to ask user to make an account on api-ninjas.com and use their own API
+# Feel free to use my api key if you're trying out the project but please if you're going to modify the code, contribute to it or use it make your own account on api-ninjas.com and get a free api key from there 100% free.
 def api():
-    return "60i4xHIgm+ib684r5m36Rw==P23smQOMCVzE7zsJ"
+    return "MDJcpcQ4ZAuigNGdzSV+Rg==jYP8IlbV5KgxiXXc"
 
 
 # uses a geocoding api site to get the user's city latitude and longitude (this is the only function that uses the api key)
