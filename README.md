@@ -1,4 +1,4 @@
-# CityWeatherInsight
+# CityWeatherInsight: A weather data app
 
 ## Video demo: https://youtu.be/4Y9m-yiZ7Ww
 
